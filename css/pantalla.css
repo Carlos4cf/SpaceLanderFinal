@@ -1,0 +1,8 @@
+body,html{height:100%;padding:0;margin:0;background-image:url(../img/fondo.jpg);background-repeat:repeat}.aa,.b,.c{display:inline-block;width:33.33%;height:100%;float:left}
+#hidem,#showm{display:block}.d,.d img{width:100%}.d{height:10%;position:fixed;bottom:0}.aboutme,.instrucciones{width:35%;color:#fff;text-align:center;font-style:italic;position:fixed}
+.aboutme{font-size:x-large;overflow:none;overflow:hidden;left:35%}#nave{text-align:center;position:fixed;top:10%;height:20%;left:45%}#nave img{height:100%}
+.botonvolver,.botonvolverajustes1{height:60%}#cpanel{border-style:solid;border-color:grey;color:#fff;margin-right:55%;font-size:18px}#hidem{color:#fff}
+#showm{color:#fff;position:fixed;top:15%}#dificultadboton{display:block;color:#fff;position:fixed;top:25%}#menudificultad{position:fixed;left:9%;top:15%}
+#menu{color:#fff;list-style-type:none;position:fixed;right:20%}.niveles{overflow:hidden}.instrucciones{left:35%;font-size:x-large}.botonvolver img,.botonvolverajustes1 img{width:30%}
+.c{display:none}.botonvolverniveles{height:9%;width:30%;position:fixed}.imagenconfig,.imagennivel,.imagenplay{width:60%}.aboutmeP{width:54%}a.enlaceabout:hover{font-size:150%}
+#showm:hover,.aboutmeP:hover,.botonvolver:hover,.imagenconfig:hover,.imagendificult:hover,.imagennivel:hover,.imagenplay:hover,.listaatras:hover,.replay:hover{transform:scale(1.2);-ms-transform:scale(1.2);-moz-transform:scale(1.2);-webkit-transform:scale(1.2);-o-transform:scale(1.2)}.replay{position:fixed;top:33%}
