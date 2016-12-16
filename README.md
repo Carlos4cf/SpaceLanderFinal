@@ -21,6 +21,7 @@ En el marcador hemos concretado que sera un marco blanco y dentro estará la "ve
 En el menú la opción de ajustes nos enseñara las instrucciones y el desarrollador del juego, que se abrirá en otro documento .html y tendrá un botón central que servirá para volver al juego.
 
 *CAMBIOS VERSIÓN FINAL*
+
 **Cuarta revisión 1.4**  ¡CAMBIOS IMPORTANTES!
 
 Después de tener encaminado el diseño del juego, hemos incorporado el JavaScript y eso nos ha obligado a realizar una serie de cambios en la estructura. Para empezar hemos querido mantener la esencia en cuanto al diseño de las primeras páginas, los iconos e imagenes son las mismas adaptadas. Hemos incorporado un panel en la parte superior izquierda donde aparecen la velocidad, fuel y altura que van modificandose en relación a la posición de la nave. Justo debajo tenemos el botón de ajustes que no detiene el juego y abre un pequeño menú en la parte superior derecha de la pantalla con las opciones de volver, play, niveles, instrucciones y el acerca de. Todas estas opciones de menú corresponden a los iconos predeterminados. Otro aspecto es el de incorporar un boton de reinico del juego justo debajo del icono de ajustes.
