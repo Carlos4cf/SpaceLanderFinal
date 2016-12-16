@@ -35,9 +35,15 @@ En esta actualización hemos intentado pulir un poco el juego. Hemos hecho que l
 Funciones del juego:
 
 **1:** La nave sube y baja hasta tocar el suelo lunar o que el fuel se acabe. Tiene 100L de fuel y debe aterrizar para no explotar a una velocidad máxima de 5 m/s.
+
 **2:** Hay 3 niveles de dificultad, en cada nivel la dificultad cambia. Se ha cambiado la velocidad de la nave para que sea más difícil aterrizar.
+
 **3:** Los botones reaccionan al pasar el ratón por encima de ellos para saber a cual estás clickando.
+
 **4:** El acerca de incluye dos enlace a páginas que se han consultado para ayudar al desarollo del juego.
+
 **5:** Si explota, muestra una explosión y al cabo de 2 segundos muestra por pantalla un mensaje de GAME OVER.
+
 **6:** Cuando aterrizas correctamente salta una ventana emergente que te indica que has aterrizado correctamente y además a la velocidad a la que has aterrizado.
+
 **7:** El botón de reinicio permite reinicar la partida cuando el usuario determine. Puede acceder desde la página principal o desde el menú desplegable.
